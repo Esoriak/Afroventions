@@ -1,0 +1,297 @@
+{
+  "data": {
+    "length": 26,
+    "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  "Inventeurs": [
+    {
+      "inventeur": "Granville Tailer  Woods",
+      "origin": "",
+      "birth-place": "Columbus - Ohio",
+      "birthdate": " 23 avril 1856",
+      "death-date": "30 janvier 1910",
+      "picture-inventor": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Woods1.jpg",
+      "invention" : [
+        {
+          "invention": "l'antenne parabolique",
+          "date": " 07 juin 1887",
+          "picture-invention": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Satellietschotel_met_monoblock.jpg/220px-Satellietschotel_met_monoblock.jpg",
+          "assign-to": ""
+        },
+        {
+          "invention": "les manèges pour divertissement",
+          "date": " 19 décembre 1899",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "l'interrupteur - le commutateur'",
+          "date": " 1er janvier 1889",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "le tunnel pour train éléctrique",
+          "date": " 17 juillet 1888",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "les systemes et les appareils téléphoniques",
+          "date": " 11 octobre 1887",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "le télégraphe des chemins de fer",
+          "date": " 28 août 1888",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "les appareils de transmission de messages via l'électricité",
+          "date": " 7 avril 1885",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "l'antenne parabolique",
+          "date": " 07 juin 1887",
+          "picture-invention": "",
+          "assign-to": ""
+        }
+      ]
+    },
+
+    {
+      "inventeur": "Norbert Rilleux",
+      "origin": "créole",
+      "birth-place": "La Nouvelle-Orléans, Louisianne",
+      "birthdate": "17 mars 1806",
+      "death-date": "8 octobre 1894",
+      "picture-inventor": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Norbert_Rillieux.jpg/220px-Norbert_Rillieux.jpg",
+      "invention" : [
+        {
+          "invention": "Évaporateur à multiples effets ( pour la production sucrière améliorée )",
+          "date": " 7 décembre 1820",
+          "picture-invention": "",
+          "assign-to": "Norbert Rilleux"
+        }
+      ]
+    },
+    {
+      "inventeur": "William F. Burr",
+      "origin": "",
+      "birth-place": "",
+      "birthdate": "13.09.1881",
+      "death-date": "",
+      "picture-inventor": "",
+      "invention" : [
+        {
+          "invention": "l'aiguillage des trains",
+          "date": " 31 octobre 1899 ",
+          "picture-invention": "",
+          "assign-to": ""
+        }
+      ]
+    },
+    {
+      "inventeur": "F.J. Wood",
+      "origin": "",
+      "birth-place": "",
+      "birthdate": "13.09.1881",
+      "death-date": "",
+      "picture-inventor": "",
+      "invention" : [
+        {
+          "invention": "L'excavatrice des pommes de terre",
+          "date": " 23 avril 1895",
+          "picture-invention": "",
+          "assign-to": ""
+        }
+      ]
+    },
+    {
+      "inventeur": "Albert C. Richardson",
+      "origin": "",
+      "birth-place": "South Frankfort, Michigan",
+      "birthdate": "13.09.1881",
+      "death-date": "",
+      "picture-inventor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsSDLmkT32qsK2Ic79oy-BsO76Twk7wtFikFkp7q9Cw&s",
+      "invention" : [
+        {
+          "invention": "Bidon ( jerricane )",
+          "date": " 17 février 1891",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "La baratte à beurre",
+          "date": " 17 février 1891",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "dispositif d'abaissement du cercueil",
+          "date": " 13 novembre 1894",
+          "picture-invention": "https://samepassage.org/wp-content/uploads/2020/08/fullsizerender-35.jpg",
+          "assign-to": ""
+        },
+        {
+          "invention": "attache à jambon",
+          "date": " 14 mars 1882",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "destructeur d'insectes",
+          "date": " 28 février 1899",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "amélioration de la conception de la bouteille",
+          "date": " 12 décembre 1899",
+          "picture-invention": "",
+          "assign-to": ""
+        }
+      ]
+    },
+    {
+      "inventeur": "Lewis A. Russel",
+      "origin": "",
+      "birth-place": "",
+      "birthdate": "13.09.1881",
+      "death-date": "",
+      "picture-inventor": "",
+      "invention" : [
+        {
+          "invention": "panneau de protection des lits",
+          "date": " 13 août 1895",
+          "picture-invention": "",
+          "assign-to": ""
+        }
+      ]
+    },
+    {
+      "inventeur": "Andrew J. Beard",
+      "origin": "",
+      "birth-place": "",
+      "birthdate": "13.09.1881",
+      "death-date": "",
+      "picture-inventor": "",
+      "invention" : [
+        {
+          "invention": "Moteur à combustion",
+          "date": " 05 juillet 1892",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "dispositif de couplages des voitures de train",
+          "date": " 10 octobre 1899",
+          "picture-invention": "",
+          "assign-to": ""
+        }
+      ]
+    },
+    {
+      "inventeur": "Garett Augustus Morgan",
+      "origin": "",
+      "birth-place": "",
+      "birthdate": "1877",
+      "death-date": "-1963",
+      "picture-inventor": "",
+      "invention" : [
+        {
+          "invention": "Masque à gaz",
+          "date": " 13 octobre 1914",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "Feu de signalisation ( feu rouge )",
+          "date": " 20 novembre 1923",
+          "picture-invention": "",
+          "assign-to": ""
+        }
+      ]
+    },
+    {
+      "inventeur": "Joseph Richard Winters",
+      "origin": "afro-américain / indien",
+      "birth-place": "Leesburg, en Virginie",
+      "birthdate": "29 août 1824",
+      "death-date": "29 novembre 1916",
+      "picture-inventor": "",
+      "invention" : [
+        {
+          "invention": "bouche de secours incendie",
+          "date": "  8 avril 1879",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "echelle de secours ( wagon + bâtiment )",
+          "date": " 07 mai 1878",
+          "picture-invention": "",
+          "assign-to": ""
+        }
+      ]
+    },
+    {
+      "inventeur": "Payton Johnson",
+      "origin": "",
+      "birth-place": "Virginie",
+      "birthdate": "1822",
+      "death-date": "1915",
+      "picture-inventor": "",
+      "invention" : [
+        {
+          "invention": "la chaise balancoire ( à bascule )",
+          "date": " 15 novembre 1881",
+          "picture-invention": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfEIHZaJw1dvYQrvhFlcm1KhOGPoVYj6NTHastxUzrl2e4vuMgCZ0yOxdxzg5ZDJrufz8&usqp=CAU",
+          "assign-to": ""
+        }
+      ]
+    },
+    {
+      "inventeur": "Carter William",
+      "origin": "",
+      "birth-place": "",
+      "birthdate": "13.09.1881",
+      "death-date": "",
+      "picture-inventor": "",
+      "invention" : [
+        {
+          "invention": "Charpente métallique (de voiture)",
+          "date": " 02 février 1892",
+          "picture-invention": "",
+          "assign-to": ""
+        },
+        {
+          "invention": "Table de cuisson à vapeur",
+          "date": " 26 octobre 1897",
+          "picture-invention": "",
+          "assign-to": ""
+        }
+      ]
+    },
+    {
+      "inventeur": "Johnson Powell",
+      "origin": "",
+      "birth-place": "Alabama ",
+      "birthdate": "13.09.1881",
+      "death-date": "",
+      "picture-inventor": "",
+      "invention" : [
+        {
+          "invention": "lentilles de protection des yeux",
+          "date": " 02 novembre 1880",
+          "picture-invention": "",
+          "assign-to": ""
+        }
+      ]
+    }
+  ]
+}
